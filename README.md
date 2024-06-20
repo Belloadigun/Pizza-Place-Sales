@@ -5,7 +5,7 @@ The dataset illustrate a year's worth of sales from a fictitious pizza place, in
 ## DATA SOURCE
 The dataset used in this project was taken from https://www.mavenanalytics.io/data-playground
 ## DATA PROCESSING
-The data was examined to fix data quality issues and structural anomalies in a bid to make the data usable for visualization. This involved 
+This process was done with the use of Microsoft Power Query for Excel. The data was examined to fix data quality issues and structural anomalies in a bid to make the data usable for visualization. This involved 
 1.	Modification of data type
 2.	Joining of tables
 3.	Reordering of columns
@@ -14,7 +14,8 @@ The data was examined to fix data quality issues and structural anomalies in a b
 1. The number of customers for each day was uncovered.
 2. Peak number of customers in a day are recorded between 12pm and 1pm.
 3. A typical order contained 4 pizza.
-4. Classic_dlx sold the most number of pizza.
+4. Classic_dlx is the most sold pizza type and brie_carre pizza is the least sold pizza type.
 5. The annual revenue generated was uncovered.
-6.  
-    
+## DATA VISUALIZATION  
+The visualization was done using Microsoft Excel.
+![Pitvtva pictvures](https://github.com/Belloadigun/PIZZA-PLACE-SALES/assets/100712092/18e4772c-f442-403c-86ff-7a91213102ef)
