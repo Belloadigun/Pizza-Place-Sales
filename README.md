@@ -7,7 +7,7 @@ The dataset used in this project was taken from https://www.mavenanalytics.io/da
 ## DATA PROCESSING
 This process was done with the use of Microsoft Power Query for Excel. The data was examined to fix data quality issues and structural anomalies in a bid to make the data usable for visualization. This involved 
 1.	Modification of data type
-2.	Joining of tables
+2.	Merging of tables
 3.	Reordering of columns
 ![Data Processing](https://github.com/Belloadigun/PIZZA-PLACE-SALES/assets/100712092/56076138-c483-47de-a390-59a342f8f272)
 ## INSIGHTS
