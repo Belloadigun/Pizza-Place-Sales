@@ -18,4 +18,5 @@ This process was done with the use of Microsoft Power Query for Excel. The data 
 5. The annual revenue generated was uncovered.
 ## DATA VISUALIZATION  
 The visualization was done using Microsoft Excel.
-![Pitvtva pictvures](https://github.com/Belloadigun/PIZZA-PLACE-SALES/assets/100712092/18e4772c-f442-403c-86ff-7a91213102ef)
+![Vis 1](https://github.com/user-attachments/assets/72849cfe-1282-4edb-abfd-7916864fdad6)
+
