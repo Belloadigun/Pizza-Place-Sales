@@ -1,22 +1,38 @@
-# PIZZA-PLACE-SALES
+# Pizza-place-sales
 Data analysis of a fictiticous pizza store
-## INTRODUCTION
-The dataset illustrate a year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
-## DATA SOURCE
+
+![ivan-torres-MQUqbmszGGM-unsplash](https://github.com/user-attachments/assets/a6823cb5-ace8-4f9f-b364-dfb7aa0218cb)
+
+
+## Introduction
+This project delves into the analysis and visualization of a dataset related to pizza sales, aiming to identify key trends, customer preferences, and sales patterns. The dataset encompasses various factors such as sales quantities, pricing, customer demographics, locations, and time frames. By applying data analysis techniques and creating insightful visualizations, this project seeks to provide a deeper understanding of the pizza market. Microsoft Excel (including Power Query for Excel) was the tool used for completing this project.
+
+## Data Source
 The dataset used in this project was taken from https://www.mavenanalytics.io/data-playground
-## DATA PROCESSING
-This process was done with the use of Microsoft Power Query for Excel. The data was examined to fix data quality issues and structural anomalies in a bid to make the data usable for visualization. This involved 
+
+## Data Processing
+The data was examined for data quality issues and structural anomalies and subsequently put in a good structure for visualization. These processes included
 1.	Modification of data type
 2.	Merging of tables
 3.	Reordering of columns
+
 ![Data Processing](https://github.com/Belloadigun/PIZZA-PLACE-SALES/assets/100712092/56076138-c483-47de-a390-59a342f8f272)
-## INSIGHTS
-1. The number of customers for each day was uncovered.
-2. Peak number of customers in a day are recorded between 12pm and 1pm.
-3. A typical order contained 4 pizza.
-4. Classic_dlx is the most sold pizza type and brie_carre pizza is the least sold pizza type.
-5. The annual revenue generated was uncovered.
-## DATA VISUALIZATION  
-The visualization was done using Microsoft Excel.
+
+## Data Visualization
 ![Vis 1](https://github.com/user-attachments/assets/72849cfe-1282-4edb-abfd-7916864fdad6)
 
+## Insights
+1. The largest quantity of pizza is sold between 12-1pm.
+2. The largest number of pizza was sold on fridays.
+3. A typical order contained 4 pizza.
+4. Classic_dlx was recorded as the most sold pizza type and brie_carre pizza was the least sold pizza type.
+5. The large sized pizzas were the most sold of pizza size type.
+6. July was recorded as the month in which the largest quantity of pizza is sold.
+7. The annual income of the shop was $801,945.
+8. The quantity of pizza sold across the year was 49,574.
+
+## Recommendation
+![istockphoto-1477505250-1024x1024](https://github.com/user-attachments/assets/cbfb34e3-c0df-4306-a141-db245f62a248)
+
+1. The quality of brie_carre pizza should be given more focus.
+2. The XL and XXL pizzas should be taken off the inventory.
