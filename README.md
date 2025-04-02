@@ -5,7 +5,7 @@ Data analysis of a fictiticous pizza store
 
 
 ## Introduction
-This project delves into the analysis and visualization of a dataset related to pizza sales, aiming to identify key trends, customer preferences, and sales patterns. The dataset encompasses various factors such as sales quantities, pricing, customer demographics, locations, and time frames. By applying data analysis techniques and creating insightful visualizations, this project seeks to provide a deeper understanding of the pizza market. Microsoft Excel (including Power Query for Excel) was the tool used for completing this project.
+This project delves into the analysis of a Pizza  Store sales, aiming to identify key trends, customer preferences, and sales patterns. The dataset encompasses various factors such as sales quantities, pricing, customer demographics, locations, and time frames. By applying data analysis techniques and creating insightful visualizations, this project seeks to provide a deeper understanding of the Pizza Store and Customer Interaction. Microsoft Excel was the tool used for completing this project.
 
 ## Data Source
 The dataset used in this project was taken from https://www.mavenanalytics.io/data-playground
